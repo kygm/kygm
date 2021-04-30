@@ -10,15 +10,12 @@
   Ice Fishing
   
 - 🌱 I’m currently learning 
-  Calculus 1,
   Swift,
-  Java (Android)
+  Java (Android),
+  Server side .NET
   
 - 💞️ I’m looking to collaborate on 
-  Projects that promote freedom of speech
-  and that keep data secure and out of 
-  the hands of three and four letter 
-  organizations (Unless permitted)
+  Projects that involve cryptography and lots of math!
   
 - 📫 How to reach me 
   kevdog1998 (Snapchat) | stankdog_20#2948 (Discord)
