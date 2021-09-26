@@ -7,18 +7,19 @@
   Small Engine Repair,
   Firefighting,
   Riding Bicycles and Motorcycles,
-  Ice Fishing
+  Ice Fishing, 
+  Calculus & High Level Algebra
   
 - 🌱 I’m currently learning 
-  Swift,
-  Java (Android),
-  Server side .NET
+  Matlab,
+  Python,
+  C++
   
 - 💞️ I’m looking to collaborate on 
   Projects that involve cryptography and lots of math!
   
 - 📫 How to reach me 
-  kevdog1998 (Snapchat) | stankdog_20#2948 (Discord)
+  stankdog_20#2948 (Discord)
   
 
 <!---
