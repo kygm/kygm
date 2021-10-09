@@ -19,7 +19,7 @@
 - 📫 How to reach me 
   stankdog_20#2948 (Discord)
   
-- Languages: Java, C#, Python, TI Basic, Javascript, C++, HTML/CSS, XAML, Dart
+- Languages: Java, C#, Python, TI Basic, Javascript, C++, HTML/CSS, XAML, Dart, SQL, MongoDB, PHP
 
 <!---
 kygm/kygm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
