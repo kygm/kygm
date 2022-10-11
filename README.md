@@ -1,17 +1,16 @@
 - 👋 Hi, I’m @kygm
 
 - 👀 I’m interested in 
-  Programming,
+  Mobile and API Development,
   Electrical Engineering,
   Investing,
   Small Engine Repair,
   Firefighting,
-  Riding Bicycles and Motorcycles,
-  Ice Fishing, 
-  Calculus & High Level Algebra
+  Lifting, and
+  Calculus
   
 - 🌱 I’m currently learning 
-  Matlab
+  Electrical Engineering
   
 - 💞️ I’m looking to collaborate on 
   Projects that involve cryptography and lots of math!
