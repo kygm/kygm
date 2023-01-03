@@ -2,12 +2,7 @@
 
 - 👀 I’m interested in 
   Mobile and API Development,
-  Electrical Engineering,
-  Investing,
-  Small Engine Repair,
-  Firefighting,
-  Lifting, and
-  Calculus
+  Electrical Engineering, and Automation
   
 - 🌱 I’m currently learning 
   Electrical Engineering
@@ -17,8 +12,9 @@
   
 - 📫 How to reach me 
   stankdog_20#2948 (Discord)
+  kygm.mfg@gmail.com
   
-- Languages: Java, C#, Python, TI Basic, Javascript, C++, HTML/CSS, XAML, Dart, SQL, MongoDB, PHP
+- Languages: Java, C#, Python, Javascript, C++, HTML/CSS, XAML, Dart, T-SQL, MongoDB, Xamarin/WPF
 
 <!---
 kygm/kygm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
