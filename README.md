@@ -5,7 +5,7 @@
   Electrical Engineering, and Automation
   
 - 🌱 I’m currently learning 
-  Electrical Engineering
+  French
   
 - 💞️ I’m looking to collaborate on 
   Projects that involve cryptography and lots of math!
