@@ -1,5 +1,5 @@
 - Full-time software developer at Rural Computer Consultants, specializing in cross-platform mobile app and API development
-- Former Computer Programming faculty at St. Cloud Technical and Community College - CMSC2204, 2240
+- Former Computer Programming faculty at St. Cloud Technical and Community College - CMSC2204 (Mobile App Development), CMSC2240 (C# API Development)
 - A.A.S in Computer Programming from St. Cloud Technical and Community College
 - In progress B.S. in Computer Science from St. Cloud State University
 
