@@ -4,11 +4,12 @@
 - In progress B.S. in Computer Science from St. Cloud State University
 
   
-- Software Languages: C#, Python, C++, C, Typescript/Javascript
+- Professional Software Languages: C#, Python, C++, C, Typescript/Javascript
+- Known Languages (but not regularly used): PHP
 - Database Languages: T-SQL, MongoDB Query Language (MQL)
 - Frameworks: .NET, Flutter, Xamarin, MAUI
 - Markup Languages: XAML, XML, HTML
-- Microcontroller Development: Arduino, STM32, ESP32
+- Microcontroller Development: Atmel ATmega328P family, STMicroelectronics STM32, Espressif ESP32 & ESP3866
 
 - 📫 How to reach me 
   stankdog_20#2948 (Discord)
