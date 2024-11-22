@@ -9,7 +9,7 @@
 - Database Languages: T-SQL, MongoDB Query Language (MQL)
 - Frameworks: .NET, Flutter, Xamarin, MAUI
 - Markup Languages: XAML, XML, HTML
-- Microcontroller Development: Atmel ATmega328P family, STMicroelectronics STM32, Espressif ESP32 & ESP3866
+- Microcontroller Development: Atmel ATmega328P family, STMicroelectronics STM32, Espressif ESP32 family
 
 - 📫 How to reach me 
   stankdog_20#2948 (Discord)
