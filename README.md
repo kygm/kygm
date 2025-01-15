@@ -1,7 +1,7 @@
 - Full-time software developer at Rural Computer Consultants, specializing in cross-platform mobile app and API development
 - Former Computer Programming faculty at St. Cloud Technical and Community College - CMSC2204 (Mobile App Development), CMSC2240 (C# API Development)
-- A.A.S in Computer Programming from St. Cloud Technical and Community College
-- In progress B.S. in Computer Science from St. Cloud State University
+- A.A.S in Computer Programming from St. Cloud Technical and Community College (3.52 GPA)
+- In progress B.S. in Computer Science from St. Cloud State University (3.81 GPA)
 
   
 - Professional Software Languages: C#, Python, C++, C, Typescript/Javascript
@@ -11,6 +11,7 @@
 - Markup Languages: XAML, XML, HTML
 - Microcontroller Development: Atmel ATmega328P family, STMicroelectronics STM32, Espressif ESP32 family
 
+- Website: www.kygmservices.com
 - 📫 How to reach me 
   stankdog_20#2948 (Discord)
   kygm.mfg@gmail.com
